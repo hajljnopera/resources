@@ -9,6 +9,6 @@ data:
   name: Visual Studio Code
 - url: 'https://www.getkmspico.com/download'
   name: KMSpico
-  direct: false,
+  direct: false
   pass: 'getkmspico.com'
 
