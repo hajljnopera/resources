@@ -11,4 +11,5 @@ data:
   name: KMSpico
   direct: false
   pass: 'getkmspico.com'
-
+- url: 'https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip'
+  name: EVKey
